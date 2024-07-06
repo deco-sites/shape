@@ -44,5 +44,87 @@
   "/.deco/blocks/deco-htmx.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/htmx.ts"
+  },
+  "/.deco/blocks/Preview%20website%2Floaders%2Fasset.ts.json": {
+    "blockType": "loaders",
+    "__resolveType": "website/loaders/asset.ts"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-279618.json": {
+    "name": "My New Page",
+    "path": "/example-path",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-390412.json": {
+    "name": "My New Page",
+    "path": "/example-path1",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-587702.json": {
+    "name": "My New Page",
+    "path": "/example-path2",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-844228.json": {
+    "name": "My New Page",
+    "path": "/example-path3",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-218850.json": {
+    "name": "My New Page",
+    "path": "/example-path4",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-509186.json": {
+    "name": "My New Page",
+    "path": "/example-path5",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-142996.json": {
+    "name": "My New Page",
+    "path": "/example-path6",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-615965.json": {
+    "name": "My New Page",
+    "path": "/example-path7",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-348711.json": {
+    "name": "My New Page",
+    "path": "/example-path8",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-18945.json": {
+    "name": "My New Page",
+    "path": "/example-path9",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-859972.json": {
+    "name": "My New Page",
+    "path": "/example-path10",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-972001.json": {
+    "name": "My New Page",
+    "path": "/example-path11",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-My%2520New%2520Page-968521.json": {
+    "name": "My New Page",
+    "path": "/example-path12",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
